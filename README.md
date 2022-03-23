@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey guys! 
+
+# I'm Lucas Sales
+
+- I'm not working right now, but looking for opportunity as Junior developer.
+- I'm a fullstack developer.
+- I have 1 year of experience with <a href="https://stackshare.io/lux-sales/my-stack/main">this stack<a/>.
 
 <!--
 **Lux-Sales/Lux-Sales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
