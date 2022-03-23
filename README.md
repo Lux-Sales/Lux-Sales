@@ -1,22 +1,10 @@
-### Hey guys! 
+### Hey guys! 👋
 
 # I'm Lucas Sales
-
+- Software engineer student at Universidade de Brasília
 - I'm not working right now, but looking for opportunity as Junior developer.
 - I'm a fullstack developer.
+- I'm perfecting myself in front-end now.
 - I have 1 year of experience with <a href="https://stackshare.io/lux-sales/my-stack/main">this stack<a/>.
-
-<!--
-**Lux-Sales/Lux-Sales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- fun fact: I work as a volunteer clown since 2015.
+  #### Here is my <a href="https://www.linkedin.com/in/luxsales">Linkedin</a> which has my most recent CV, and email, phone number, if u want to contact me.
