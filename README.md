@@ -1,11 +1,11 @@
-### Hey guys! 👋  
+### Olá, pessoal! 👋  
 
-# I'm Lucas Sales     <a align="left" href="https://www.linkedin.com/in/luxsales" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+# Eu sou Lucas Sales     <a align="left" href="https://www.linkedin.com/in/luxsales" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-- Software engineer student at Universidade de Brasília
-- I'm a fullstack developer specializing in infrastructure.
-- I have 3 years of experience with <a href="https://stackshare.io/lux-sales/my-stack/main" target="_blank">this stack<a/>.
-- fun fact: I work as a volunteer clown since 2015.
+- Estudante de Engenharia de Software na Universidade de Brasília.
+- Desenvolvedor full stack.
+- 4 anos de experiência com <a href="https://stackshare.io/lux-sales/my-stack/main" target="_blank">essa stack<a/>.
+- fun fact: Eu trabalho como palhaço voluntário desde 2015, na organização <a href="https://www.instagram.com/lacosdaalegria">Laços da Alegria<a/>.
  
  
  
