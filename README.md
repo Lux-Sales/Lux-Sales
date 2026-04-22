@@ -1,18 +1,88 @@
-### Olá, pessoal! 👋  
+# 👋 Olá, eu sou o Lucas Sales
 
-# Eu sou Lucas Sales     <a align="left" href="https://www.linkedin.com/in/luxsales" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+💻 Desenvolvedor de Software  
+⚙️ Full-stack com foco em interfaces web e APIs  
+🚀 Construindo soluções úteis, performáticas e bem estruturadas  
 
-- Estudante de Engenharia de Software na Universidade de Brasília.
-- Desenvolvedor full stack.
-- 4 anos de experiência com <a href="https://stackshare.io/lux-sales/my-stack/main" target="_blank">essa stack<a/>.
-- fun fact: Eu trabalho como palhaço voluntário desde 2015, na organização <a href="https://www.instagram.com/lacosdaalegria">Laços da Alegria<a/>.
- 
- 
- 
-### 🧑‍💻  How many hours i've programmed last 7 days:
- 
- <img src="https://wakatime.com/share/@Lux_sales/32dde81c-b4a3-4de1-b381-e3a3882dea75.svg"></img>
+---
 
-### 💻 What languages i'm programming:
+## 🧠 Sobre mim
 
-<img src="https://wakatime.com/share/@Lux_sales/d86bc2d9-04fa-41bc-a3f0-f15baaa499ef.svg"></img>
+Estudante de Engenharia de Software na UnB com experiência prática no desenvolvimento e manutenção de sistemas.
+
+Atuo principalmente no desenvolvimento de aplicações que envolvem:
+
+- Construção de interfaces web
+- Integração de APIs
+- Manipulação e tratamento de dados em aplicações
+- Correção e evolução de sistemas em produção
+
+---
+
+## ⚙️ Stack
+
+### 💻 Frontend
+- React (TypeScript, JavaScript)
+- CSS (Sass, Styled Components, UI libraries)
+
+### 🔧 Backend
+- Python (Django, Flask, FastAPI)
+- APIs REST
+
+### 🗄️ Dados
+- SQL
+
+### ☁️ Infra & Ferramentas
+- AWS (EC2, IAM)
+- GCP (Firebase, Cloud Run)
+- Docker
+- Git & GitHub
+
+---
+
+## 💼 Experiência
+
+### 🏢 IPNET Growth Partner  
+**Desenvolvedor Front-end (2022 – 2024)**
+
+- Integração com APIs para consumo e exibição de dados em produção
+- Manipulação de dados em interfaces web
+- Suporte e manutenção de sistemas em produção
+
+---
+
+### 🏢 OS3 TI  
+**Desenvolvedor Full Stack (2021 – 2022)**
+
+- Desenvolvimento backend com foco em APIs e integração de sistemas para clientes externos
+- Correção de falhas e manutenção de aplicações
+- Suporte à estabilidade de sistemas existentes
+
+---
+
+## 🚧 Projetos
+
+### 🏨 Luxury Hotel Website  
+🔗 https://luxury-hotel-portfolio.web.app/
+
+Projeto de interface web com foco em experiência do usuário e construção de layout moderno e responsivo.
+
+- Interface moderna e responsiva
+- Componentização para reutilização e escalabilidade
+- Foco em experiência do usuário
+
+---
+
+### 🔎 Experimentos com automação e scraping
+
+Projetos privados explorando:
+- Coleta de dados
+- Estruturação de informações
+- Testes de automação
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/luxsales/
+- 📧 Email: sales_l@hotmail.com
